@@ -8,9 +8,7 @@ Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obta
 * Framework  
 <img src="https://img.shields.io/badge/-Pytorch-green?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
 * library
-<img src="https://img.shields.io/badge/-Numpy-green?style=flat&logo=Numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/-Pandas-green?style=flat&logo=Pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/-Scikit-learn-green?style=flat&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/-Numpy-green?style=flat&logo=Numpy&logoColor=013243"/><img src="https://img.shields.io/badge/-Pandas-green?style=flat&logo=Pandas&logoColor=150458"/><img src="https://img.shields.io/badge/-Scikit learn-green?style=flat&logo=scikit-learn&logoColor=F7931E"/>
 
 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-red)
