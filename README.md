@@ -3,7 +3,7 @@
 Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obtained a master's degree
 
 ### 🖥 Tech Stack
-* Program Language
+* Program Language  
 ![Python](https://img.shields.io/badge/-Python-grey)
 
 ![Spring](https://img.shields.io/badge/-Spring-green)
