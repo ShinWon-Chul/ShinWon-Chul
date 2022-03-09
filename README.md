@@ -4,8 +4,7 @@ Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obta
 
 ### 🖥 Tech Stack
 * Program Language  
-![Python](https://img.shields.io/badge/-Python-grey)
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/-Python-grey?style=flat&logo=Python&logoColor=3776AB"/>
 * Framework  
 ![Pytorch](https://img.shields.io/badge/-Pytorch-red)
 
