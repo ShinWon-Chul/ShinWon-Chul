@@ -12,4 +12,4 @@ Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obta
 
 
 **library**    
-<p><img src="https://img.shields.io/badge/-Numpy-yellow?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-orange?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
+<p><img src="https://img.shields.io/badge/-Numpy-orange?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
