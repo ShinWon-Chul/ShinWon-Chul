@@ -1,6 +1,6 @@
 ### 👋 Hello, I am `Wonchul Shin (신원철)`.
 
-Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obtained a master's degree
+Graduated from [Soongsil University AI Lab](http://ailab.ssu.ac.kr/rb/) and obtained a master's degree  
 I study every day to become a developer that anyone wants to work with, and I am taking one step at a time.
 
 ### 🖥 Tech Stack  
