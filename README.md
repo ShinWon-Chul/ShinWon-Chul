@@ -15,7 +15,7 @@ I study every day to become a developer that anyone wants to work with, and I am
 <p><img src="https://img.shields.io/badge/-MariaDB-orange?style=flat&logo=MariaDB&logoColor=003545"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=000000"/></p>
 
 **Library**    
-<p><img src="https://img.shields.io/badge/-Amazon EC2-FF9900?style=flat&logo=Numpy&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
+<p><img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=flat&logo=Numpy&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
 <p><img src="https://img.shields.io/badge/-Numpy-orange?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
 <p><img src="https://img.shields.io/badge/-Numpy-orange?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
 
