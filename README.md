@@ -9,7 +9,7 @@ I study every day to become a developer that anyone wants to work with, and I am
 <p><img src="https://img.shields.io/badge/-Python3-green?style=flat&logo=Python&logoColor=3776AB"/></p>
 
 **Framework**    
-<p><img src="https://img.shields.io/badge/-Pytorch-green?style=flat&logo=Pytorch&logoColor=EE4C2C"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-TensorFlow-gray?style=flat&logo=TensorFlow&logoColor=FF6F00"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Flask-gray?style=flat&logo=TensorFlow&logoColor=FF6F00"/></p>
+<p><img src="https://img.shields.io/badge/-Pytorch-green?style=flat&logo=Pytorch&logoColor=EE4C2C"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-TensorFlow-gray?style=flat&logo=TensorFlow&logoColor=FF6F00"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Flask-gray?style=flat&logo=Flask&logoColor=000000"/></p>
 
 
 **Library**    
