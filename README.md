@@ -11,6 +11,7 @@ I study every day to become a developer that anyone wants to work with, and I am
 **Framework**    
 <p><img src="https://img.shields.io/badge/-Pytorch-green?style=flat&logo=Pytorch&logoColor=EE4C2C"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-TensorFlow-gray?style=flat&logo=TensorFlow&logoColor=FF6F00"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Flask-orange?style=flat&logo=Flask&logoColor=000000"/></p>
 
-
+**DataBase**    
+<p><img src="https://img.shields.io/badge/-MariaDB-orange?style=flat&logo=MariaDB&logoColor=003545"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=4479A1"/>
 **Library**    
 <p><img src="https://img.shields.io/badge/-Numpy-orange?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
