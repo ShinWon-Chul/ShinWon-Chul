@@ -16,8 +16,8 @@ I study every day to become a developer that anyone wants to work with, and I am
 
 **Devops**    
 <p><img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=AWS%20Lambda&logoColor=000000"/></p>
-<p><img src="https://img.shields.io/badge/-Amazon%20API%20Gateway-FF4F8B?style=flat&logo=Amazon%20API%20Gateway&logoColor=000000"/></p>
-<p><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Dockerr&logoColor=000000"/></p>
+<p><img src="https://img.shields.io/badge/-Amazon%20API%20Gateway-FF4F8B?style=flat&logo=Amazon%20API%20Gateway&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=000000"/></p>
 <p><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=000000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=000000"/></p>
+
 **Library**    
 <p><img src="https://img.shields.io/badge/-Numpy-orange?style=flat&logo=Numpy&logoColor=013243"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=150458"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Scikit learn-blue?style=flat&logo=scikit-learn&logoColor=F7931E"/></p>
